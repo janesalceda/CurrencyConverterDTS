@@ -3,7 +3,7 @@
 <!DOCUMENT html>
 <html>
 <head>
-    <title>Currency Converterxsxsxss</title>
+    <title>Currency Converter</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
     <script src="https://code.angularjs.org/1.5.7/angular.min.js"></script>
