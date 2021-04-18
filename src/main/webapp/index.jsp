@@ -14,7 +14,7 @@
       <div ng-controller="ctrl" class="form-inline designForm design">
           
        <div class="input-group">
- 	<span class="input-group-addon">Convert Fromsasasa :</span>
+ 	<span class="input-group-addon">Convert From :</span>
     <select ng-model="currencyIndex"  id="convertFrom" class="form-control col-md-8">
         <option value="PHP">Philippine PesoASSSS (PHP)</option>
         <option value="JPY">Japanese Yen (JPY)</option>
